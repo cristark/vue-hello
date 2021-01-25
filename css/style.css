@@ -12,3 +12,7 @@ body {
 a {
   color: black;
 }
+
+.dimension {
+  height: 300px;
+}
