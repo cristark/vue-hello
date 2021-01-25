@@ -13,6 +13,15 @@ a {
   color: black;
 }
 
+img {
+  cursor: pointer;
+  transition: 0.5s linear;
+}
+
 .dimension {
   height: 300px;
+}
+
+.dimension_big {
+  height: 600px;
 }

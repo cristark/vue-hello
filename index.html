@@ -21,7 +21,7 @@
     <main>
         <section id="container">
             <h1>{{message}}</h1>
-            <img :src="src" :alt="title" :class="dim">
+            <img @click="clickImage" :src="src" :alt="title" :class="dim">
 
         </section>
     </main>
